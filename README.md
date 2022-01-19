@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Gyeonghwan's%20github&fontSize=70)
 
+### Tech stack 🌱
+[![JAVA TAG](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&link=https://github.com/GyeonghwanMa)](https://github.com/GyeonghwanMa)
+
 <!--
 **GyeonghwanMa/GyeonghwanMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
