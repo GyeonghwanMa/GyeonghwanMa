@@ -10,7 +10,7 @@
 [![SPRING BOOT TAG](http://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white&link=https://github.com/GyeonghwanMa)](https://github.com/GyeonghwanMa) 
  
 ##### Library 🏗
-[![REACT TAG](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black&link=https://github.com/GyeonghwanMa)](https://github.com/GyeonghwanMa)
+[![JQUERY TAG](http://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white&link=https://github.com/GyeonghwanMa)](https://github.com/GyeonghwanMa) [![REACT TAG](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black&link=https://github.com/GyeonghwanMa)](https://github.com/GyeonghwanMa)
 
 ##### Database 🎁
  [![ORACLE TAG](http://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white&link=https://github.com/GyeonghwanMa)](https://github.com/GyeonghwanMa) [![POSTGRESQL TAG](http://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white&link=https://github.com/GyeonghwanMa)](https://github.com/GyeonghwanMa) [![MARIADB TAG](http://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=https://github.com/GyeonghwanMa)](https://github.com/GyeonghwanMa) [![MONGODB TAG](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/GyeonghwanMa)](https://github.com/GyeonghwanMa)
