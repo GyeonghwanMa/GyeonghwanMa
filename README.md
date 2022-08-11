@@ -16,8 +16,8 @@
  [![ORACLE TAG](http://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white&link=https://github.com/ghma1213)](https://github.com/ghma1213) [![POSTGRESQL TAG](http://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white&link=https://github.com/ghma1213)](https://github.com/ghma1213) [![MARIADB TAG](http://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=https://github.com/ghma1213)](https://github.com/ghma1213) [![MONGODB TAG](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/ghma1213)](https://github.com/ghma1213)
 
 ### My stats 🤔
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghma1213)](https://github.com/ghma1213&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghma1213)](https://github.com/ghma1213)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghma1213)](https://github.com/ghma1213&show_icons=true&count-private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghma1213&count-private=true)](https://github.com/ghma1213)
 <!--
 **ghma1213/ghma1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
