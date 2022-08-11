@@ -17,7 +17,7 @@
 
 ### My stats 🤔
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghma1213&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghma1213&count-private=true)](https://github.com/ghma1213)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghma1213?hide=css,html)](https://github.com/ghma1213)
 
 <!--
 **ghma1213/ghma1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
