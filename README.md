@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Gyeonghwan's%20github&fontSize=70)
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Gyeonghwan's%20github&fontSize=70)  
+#
 ### Tech stack 🌱
 ##### Language 🎈
 [![JAVA TAG](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=whitelink=https://github.com/ghma1213)](https://github.com/ghma1213) [![GO TAG](http://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white&link=https://github.com/ghma1213)](https://github.com/ghma1213) [![JAVASCRIPT TAG](http://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black&link=https://github.com/ghma1213)](https://github.com/ghma1213) [![TYPESCRIPT TAG](http://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white&link=https://github.com/ghma1213)](https://github.com/ghma1213) [![GRAPHQL TAG](http://img.shields.io/badge/-Graphql-E10098?style=flat-square&logo=GRAPHQL&logoColor=white&link=https://github.com/ghma1213)](https://github.com/ghma1213) [![HTML5 TAG](http://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&link=https://github.com/ghma1213)](https://github.com/ghma1213) [![CSS3 TAG](http://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://github.com/ghma1213)](https://github.com/ghma1213)  
